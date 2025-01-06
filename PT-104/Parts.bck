@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM5015
+D High Voltage Monolithic Two-Switch Forward DC-DC Regulator
+$ENDCMP
+#
+$CMP LTC2408
+F https://www.analog.com/media/en/technical-documentation/data-sheets/24048fa.pdf
+$ENDCMP
+#
+$CMP MAX336
+F https://datasheets.maximintegrated.com/en/ds/MAX336-MAX337.pdf
+$ENDCMP
+#
+$CMP TLC2201
+D precision, low-noise operational amplifier
+K single opamp
+F https://www.ti.com/lit/ds/symlink/tlc2202.pdf
+$ENDCMP
+#
+$CMP Wuerth_749119150
+D WE-PoE Power over Ethernet Transformer
+K PoE Transformer
+F https://www.we-online.com/catalog/datasheet/749119150.pdf
+$ENDCMP
+#
+#End Doc Library
